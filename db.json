@@ -1,4 +1,4 @@
-[
+{
   "products" : [
     {"id":1,"nama":"White-faced whistling duck","category":"Goldenrod"},
     {"id":2,"nama":"Devil, tasmanian","category":"Fuscia"},
@@ -21,4 +21,4 @@
     {"id":19,"nama":"Indian tree pie","category":"Teal"},
     {"id":20,"nama":"Eurasian red squirrel","category":"Blue"}
   ]
-]
+}
