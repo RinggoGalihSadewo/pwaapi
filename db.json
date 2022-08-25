@@ -1,0 +1,24 @@
+[
+  "products" : [
+    {"id":1,"nama":"White-faced whistling duck","category":"Goldenrod"},
+    {"id":2,"nama":"Devil, tasmanian","category":"Fuscia"},
+    {"id":3,"nama":"Glider, squirrel","category":"Red"},
+    {"id":4,"nama":"Snowy sheathbill","category":"Indigo"},
+    {"id":5,"nama":"White-browed owl","category":"Khaki"},
+    {"id":6,"nama":"Shark, blue","category":"Puce"},
+    {"id":7,"nama":"Tinamou, elegant crested","category":"Violet"},
+    {"id":8,"nama":"Flamingo, greater","category":"Aquamarine"},
+    {"id":9,"nama":"Plover, blacksmith","category":"Turquoise"},
+    {"id":10,"nama":"Least chipmunk","category":"Khaki"},
+    {"id":11,"nama":"Wolf, timber","category":"Khaki"},
+    {"id":12,"nama":"South American puma","category":"Pink"},
+    {"id":13,"nama":"Lion, steller sea","category":"Turquoise"},
+    {"id":14,"nama":"American badger","category":"Orange"},
+    {"id":15,"nama":"Gull, kelp","category":"Yellow"},
+    {"id":16,"nama":"Bushpig","category":"Mauv"},
+    {"id":17,"nama":"Black-fronted bulbul","category":"Blue"},
+    {"id":18,"nama":"Otter, african clawless","category":"Blue"},
+    {"id":19,"nama":"Indian tree pie","category":"Teal"},
+    {"id":20,"nama":"Eurasian red squirrel","category":"Blue"}
+  ]
+]
